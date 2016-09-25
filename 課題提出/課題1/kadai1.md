@@ -46,7 +46,7 @@ IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 ![原画像](https://github.com/suke123/lecture_image_processing/blob/master/%E8%AA%B2%E9%A1%8C%E6%8F%90%E5%87%BA/%E8%AA%B2%E9%A1%8C1/images/kame1-32.png)  
 図6 1/32サンプリング
 
-![原画像](https://github.com/suke123/lecture_image_processing/blob/master/%E8%AA%B2%E9%A1%8C%E6%8F%90%E5%87%BA/%E8%AA%B2%E9%A1%8C1/images/kame1-64.png)
+![原画像](https://github.com/suke123/lecture_image_processing/blob/master/%E8%AA%B2%E9%A1%8C%E6%8F%90%E5%87%BA/%E8%AA%B2%E9%A1%8C1/images/kame1-64.png)  
 図7 1/64サンプリング
 
 このようにサンプリング幅が大きくなると，モザイク状のサンプリング歪みが発生する．
